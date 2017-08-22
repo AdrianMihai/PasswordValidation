@@ -6,9 +6,7 @@
         "php": ">=5.5.9"
     },
     "autoload": {
-        "psr-0": {
-            "passValidator": "src"
-        }
+        "files" : ["src/passValidator.php"]
     },
     "minimum-stability": "dev"
 }
