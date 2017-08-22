@@ -1,12 +1,12 @@
 {
     "name": "mihai-a/password-validator",
     "description": "Class for calculating passwords' strength",
-    "homepage": "https://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/AdrianMihai/passwordValidation",
     "require": {
         "php": ">=5.5.9"
     },
     "autoload": {
         "files" : ["src/passValidator.php"]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
