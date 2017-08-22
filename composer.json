@@ -8,7 +8,7 @@
     "autoload": {
         "files" : ["src/passValidator.php"]
     },
-    {
+    "repositories":{
         "type": "vcs",
         "url": "https://github.com/AdrianMihai/passwordValidation"
      },
