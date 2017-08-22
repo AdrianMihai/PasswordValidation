@@ -8,5 +8,5 @@
     "autoload": {
         "files" : ["src/passValidator.php"]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
