@@ -8,6 +8,14 @@
     "autoload": {
         "files" : ["src/passValidator.php"]
     },
+    "authors" :[
+        {
+            "name": "Adrian Serbanescu",
+            "email": "adrian_cs98@yahoo.co.uk",
+            "homepage": "https://codecanyon.net/user/mihaia",
+            "role": "Developer"
+        }
+    ],
     "repositories":{
         "type": "vcs",
         "url": "https://github.com/AdrianMihai/passwordValidation"
