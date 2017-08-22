@@ -1,5 +1,5 @@
 {
-    "name": "MihaiA/passwordValidator",
+    "name": "mihai-a/password-validator",
     "description": "Class for calculating passwords' strength",
     "homepage": "https://github.com/Seldaek/monolog",
     "require": {
