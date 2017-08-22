@@ -1,0 +1,13 @@
+{
+    "name": "MihaiA/passwordValidator",
+    "description": "Class for calculating passwords' strength",
+    "homepage": "https://github.com/Seldaek/monolog",
+    "require": {
+        "php": ">=5.6",
+    },
+    "autoload": {
+        "psr-0": {
+            "passValidator": "src"
+        }
+    }
+}
