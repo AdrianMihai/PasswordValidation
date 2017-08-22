@@ -9,5 +9,6 @@
         "psr-0": {
             "passValidator": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
